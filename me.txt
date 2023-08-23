@@ -1,0 +1,5 @@
+{{#user}}
+Name: Divya
+Skills: HTML, CSS, JS, mysql,java,bootstrap
+Email: divyagupta2002january@gmail.com
+{{/user}}
